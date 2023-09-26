@@ -13,7 +13,7 @@ Several components are included in this package:
     2) "SolveContinuousDCTAP_GP" is used to solve the continuous RTAP.
 
 
-(2) Path: .../Source/ExeDriver/transitDriver
+(2) Path: .../Source/ExeDriver/evDriver
 
 --evDriver.cpp: Main function   
 
