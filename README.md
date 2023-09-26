@@ -8,8 +8,11 @@ Several components are included in this package:
 --EvTap.cpp: Definition of functions. For example: 
     1) "LabelSettingBSPTree" is equivalent to Algorithm 5 in Appendix A; 
     2) "SolveContinuousDCTAP_GP" is used to solve the continuous RTAP.
+
+
 (2) Path: .../Source/ExeDriver/transitDriver
 --evDriver.cpp: Main function   
+
 
 (3) Path: .../Source/Networks/evNet
 --Two-OD pair small network (Section 5.1 in the paper)
