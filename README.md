@@ -1,5 +1,5 @@
 # GP_RTAP
-Path-based gradient projection algorithm for solving the range-constrained traffic assignment problem (RTAP), which considers the heterogeneity of range anxiety (i.e., Discrete and Continuous) in the electrified transportation network. 
+Path-based gradient projection algorithm for solving the range-constrained traffic assignment problem (RTAP), which considers the heterogeneity of range anxiety (i.e., Discrete and Continuous) in the electrified transportation network. The algorithms have been implemented using the C++ programming language. To utilize this package, users are required to install the latest version of Visual Studio.
  
 Several components are included in this package:
 
