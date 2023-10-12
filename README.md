@@ -3,7 +3,7 @@ Path-based gradient projection algorithm for solving the range-constrained traff
  
 Several components are included in this package:
 
-**(1) Path: .../Source/DllProj/evNet**
+**(1) Directory: .../Source/DllProj/evNet**
 
   --ev.h: Definition of classes and data structures.
 
@@ -14,12 +14,12 @@ Several components are included in this package:
      2) "SolveContinuousDCTAP_GP" is used to solve the continuous RTAP.
 
 
-**(2) Path: .../Source/ExeDriver/evDriver**
+**(2) Directory: .../Source/ExeDriver/evDriver**
 
   --evDriver.cpp: Main function for entrance  
 
 
-**(3) Path: .../Source/Networks/evNet**
+**(3) Directory: .../Source/Networks/evNet**
   
   --Two-OD pair small network (Section 5.1 in the paper)
 
