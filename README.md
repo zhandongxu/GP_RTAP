@@ -34,4 +34,4 @@ Several components are included in this package:
      winnipeg_trp.dat: Demand data
 
 
-Cite our work: Zhandong Xu, Yiyang Peng, Guoyuan Li, Anthony Chen, Xiaobo Liu. Range-constrained traffic assignment for electric vehicles under heterogeneous range anxiety, Transportation Research Part C: Emerging Technologies, 2024, 158: 104419.
+Citation: Zhandong Xu, Yiyang Peng, Guoyuan Li, Anthony Chen, Xiaobo Liu. Range-constrained traffic assignment for electric vehicles under heterogeneous range anxiety, Transportation Research Part C: Emerging Technologies, 2024, 158: 104419.
